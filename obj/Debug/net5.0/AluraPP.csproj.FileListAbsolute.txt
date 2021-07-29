@@ -1,0 +1,16 @@
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\AluraPP.exe
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\AluraPP.deps.json
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\AluraPP.runtimeconfig.json
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\AluraPP.runtimeconfig.dev.json
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\AluraPP.dll
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\ref\AluraPP.dll
+C:\Users\lucas.chacon\AluraPP\bin\Debug\net5.0\AluraPP.pdb
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.csproj.AssemblyReference.cache
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.AssemblyInfoInputs.cache
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.AssemblyInfo.cs
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.csproj.CoreCompileInputs.cache
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.dll
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\ref\AluraPP.dll
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.pdb
+C:\Users\lucas.chacon\AluraPP\obj\Debug\net5.0\AluraPP.genruntimeconfig.cache
