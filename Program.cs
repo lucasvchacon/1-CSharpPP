@@ -8,8 +8,9 @@ namespace AluraPP
         {
 
             int idade = 32;
+            int idade2 = 29;
             Console.WriteLine("sua idade é: " +idade);
-            //Console.WriteLine(idade);
+            Console.WriteLine(idade2);
 
 
             Console.WriteLine("Programa 1");
